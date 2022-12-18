@@ -1,0 +1,59 @@
+﻿@model IEnumerable<crud_operation.Models.teacher_Model>
+
+@{
+    ViewData["Title"] = "teacher_Display";
+}
+
+<h1>teacher_Display</h1>
+
+<p>
+    <a asp-action="AddTeacher">Add teacher </a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.first_Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.last_Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.phone_Number)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.first_Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.last_Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.phone_Number)
+            </td>
+            <td>
+                @Html.ActionLink("Update", "update_teacher", new {  id=item.Id  }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "delete_Teacher", new { id=item.Id  })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
