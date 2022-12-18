@@ -1,0 +1,26 @@
+Z:\Weak\weak_5_web_eng\day_3\jquery _practise\Jquery _practise\Jquery _practise\bin\Debug\net6.0\appsettings.Development.json
+Z:\Weak\weak_5_web_eng\day_3\jquery _practise\Jquery _practise\Jquery _practise\bin\Debug\net6.0\appsettings.json
+Z:\Weak\weak_5_web_eng\day_3\jquery _practise\Jquery _practise\Jquery _practise\bin\Debug\net6.0\Jquery _practise.staticwebassets.runtime.json
+Z:\Weak\weak_5_web_eng\day_3\jquery _practise\Jquery _practise\Jquery _practise\bin\Debug\net6.0\Jquery _practise.exe
+Z:\Weak\weak_5_web_eng\day_3\jquery _practise\Jquery _practise\Jquery _practise\bin\Debug\net6.0\Jquery _practise.deps.json
+Z:\Weak\weak_5_web_eng\day_3\jquery _practise\Jquery _practise\Jquery _practise\bin\Debug\net6.0\Jquery _practise.runtimeconfig.json
+Z:\Weak\weak_5_web_eng\day_3\jquery _practise\Jquery _practise\Jquery _practise\bin\Debug\net6.0\Jquery _practise.dll
+Z:\Weak\weak_5_web_eng\day_3\jquery _practise\Jquery _practise\Jquery _practise\bin\Debug\net6.0\Jquery _practise.pdb
+Z:\Weak\weak_5_web_eng\day_3\jquery _practise\Jquery _practise\Jquery _practise\obj\Debug\net6.0\Jquery _practise.csproj.AssemblyReference.cache
+Z:\Weak\weak_5_web_eng\day_3\jquery _practise\Jquery _practise\Jquery _practise\obj\Debug\net6.0\Jquery _practise.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Weak\weak_5_web_eng\day_3\jquery _practise\Jquery _practise\Jquery _practise\obj\Debug\net6.0\Jquery _practise.AssemblyInfoInputs.cache
+Z:\Weak\weak_5_web_eng\day_3\jquery _practise\Jquery _practise\Jquery _practise\obj\Debug\net6.0\Jquery _practise.AssemblyInfo.cs
+Z:\Weak\weak_5_web_eng\day_3\jquery _practise\Jquery _practise\Jquery _practise\obj\Debug\net6.0\Jquery _practise.csproj.CoreCompileInputs.cache
+Z:\Weak\weak_5_web_eng\day_3\jquery _practise\Jquery _practise\Jquery _practise\obj\Debug\net6.0\Jquery _practise.MvcApplicationPartsAssemblyInfo.cache
+Z:\Weak\weak_5_web_eng\day_3\jquery _practise\Jquery _practise\Jquery _practise\obj\Debug\net6.0\Jquery _practise.RazorAssemblyInfo.cache
+Z:\Weak\weak_5_web_eng\day_3\jquery _practise\Jquery _practise\Jquery _practise\obj\Debug\net6.0\Jquery _practise.RazorAssemblyInfo.cs
+Z:\Weak\weak_5_web_eng\day_3\jquery _practise\Jquery _practise\Jquery _practise\obj\Debug\net6.0\staticwebassets.build.json
+Z:\Weak\weak_5_web_eng\day_3\jquery _practise\Jquery _practise\Jquery _practise\obj\Debug\net6.0\staticwebassets.development.json
+Z:\Weak\weak_5_web_eng\day_3\jquery _practise\Jquery _practise\Jquery _practise\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+Z:\Weak\weak_5_web_eng\day_3\jquery _practise\Jquery _practise\Jquery _practise\obj\Debug\net6.0\scopedcss\bundle\Jquery _practise.styles.css
+Z:\Weak\weak_5_web_eng\day_3\jquery _practise\Jquery _practise\Jquery _practise\obj\Debug\net6.0\scopedcss\projectbundle\Jquery _practise.bundle.scp.css
+Z:\Weak\weak_5_web_eng\day_3\jquery _practise\Jquery _practise\Jquery _practise\obj\Debug\net6.0\Jquery _practise.dll
+Z:\Weak\weak_5_web_eng\day_3\jquery _practise\Jquery _practise\Jquery _practise\obj\Debug\net6.0\refint\Jquery _practise.dll
+Z:\Weak\weak_5_web_eng\day_3\jquery _practise\Jquery _practise\Jquery _practise\obj\Debug\net6.0\Jquery _practise.pdb
+Z:\Weak\weak_5_web_eng\day_3\jquery _practise\Jquery _practise\Jquery _practise\obj\Debug\net6.0\Jquery _practise.genruntimeconfig.cache
+Z:\Weak\weak_5_web_eng\day_3\jquery _practise\Jquery _practise\Jquery _practise\obj\Debug\net6.0\ref\Jquery _practise.dll

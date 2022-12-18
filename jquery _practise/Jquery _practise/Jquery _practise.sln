@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jquery _practise", "Jquery _practise\Jquery _practise.csproj", "{B69BDFF4-1508-43DB-9A75-04F127FDF762}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B69BDFF4-1508-43DB-9A75-04F127FDF762}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B69BDFF4-1508-43DB-9A75-04F127FDF762}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B69BDFF4-1508-43DB-9A75-04F127FDF762}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B69BDFF4-1508-43DB-9A75-04F127FDF762}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70DF7F02-C160-4EEF-8D38-CF5A32FFC172}
+	EndGlobalSection
+EndGlobal
